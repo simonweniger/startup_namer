@@ -1,6 +1,9 @@
 # startup_namer
 
-A new Flutter project.
+A simple Flutter project. That generates an infinite list of startup names and let you save your favorites
+
+![b17de15fa7831a1c](https://user-images.githubusercontent.com/43147663/190440317-add952cf-df31-463e-89f8-cada453f2267.gif)
+
 
 ## Getting Started
 
